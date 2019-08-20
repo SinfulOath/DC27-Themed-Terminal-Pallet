@@ -14,4 +14,7 @@ If you ran the Load command it appears to not have worked kill your current Term
 **dconf reset -f /org/gnome/terminal/**
 
 # Other OS
-If you are having difficulties getting this to run on a different OS that does/doesn't use gnome desktop environment, please go over to the original reddit post (https://www.reddit.com/r/Defcon/comments/ct05ry/full_defcon_27_themed_color_pallet_github/) and comment the OS your are using as well as the Desktop environment you are running so everyone is able to use this if they please on any OS.
+If you are having difficulties getting this to run on a different OS that does/doesn't use gnome desktop environment, please go over to the original reddit post and comment the OS your are using as well as the Desktop environment you are running so everyone is able to use this if they please on any OS.
+
+# Reddit Link
+https://www.reddit.com/r/Defcon/comments/ct05ry/full_defcon_27_themed_color_pallet_github/
