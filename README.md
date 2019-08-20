@@ -9,7 +9,7 @@ In order for you to add this to your terminal all you will need to do is downloa
 **dconf load /org/gnome/terminal/ < DC27-Themed-Pallet.txt**
 
 # Problem Loading Color Pallete?
-
+If you ran the Load command it appears to not have worked kill your current Terminal and open a new one to verify.
 **dconf reset -f /org/gnome/terminal/**
 
 # Other OS
