@@ -6,8 +6,8 @@ This Was Created by: SinfulOath
 
 In order for you to add this to your terminal all you will need to do is download the DC27-Themed-Pallet.txt and then run the following command:
 
-dconf load /org/gnome/terminal/ < DC27-Themed-Pallet.txt
+**dconf load /org/gnome/terminal/ < DC27-Themed-Pallet.txt**
 
 # Problem Loading Color Pallete?
 
-dconf reset -f /org/gnome/terminal/
+**dconf reset -f /org/gnome/terminal/**
