@@ -13,4 +13,4 @@ If you ran the Load command it appears to not have worked kill your current Term
 **dconf reset -f /org/gnome/terminal/**
 
 # Other OS
-Currently Having issues with Load command on Kali Linux, Possibly Others.
+If you are having difficulties getting this to run on a different OS that doesn't use gnome desktop environment, please go over to the original reddit post and comment the OS your are using as well as the Desktop environment you are running so everyone is able to use this if they please on any OS.
