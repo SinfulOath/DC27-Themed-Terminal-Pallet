@@ -13,4 +13,4 @@ In order for you to add this to your terminal all you will need to do is downloa
 **dconf reset -f /org/gnome/terminal/**
 
 # Other OS
-Currently Having issues with Top command on Kali Linux, Possibly Others.
+Currently Having issues with Load command on Kali Linux, Possibly Others.
